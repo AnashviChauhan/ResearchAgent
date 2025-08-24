@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+openai
+flask
+feedparser
+pydantic
+python-dotenv
+portia-sdk-python
